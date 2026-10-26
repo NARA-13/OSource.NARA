@@ -1,0 +1,8 @@
+release/*.exe
+release/*.zip
+release/SHA256SUMS.txt
+node_modules/
+*.log
+*.db
+*.part
+.DS_Store
